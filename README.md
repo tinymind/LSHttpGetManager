@@ -16,7 +16,6 @@ Or:
 ```cpp
 
 $ git https://github.com/tinymind/LSHttpGetManager.git
-
 ```
 
 ####Usage
@@ -34,9 +33,8 @@ $ git https://github.com/tinymind/LSHttpGetManager.git
         }];
 
 }
-
 ```
 
 ####Example
 
-![Example](https://github.com/tinymind/LSHttpGetManager/tree/master/example.png)
+![Example](https://github.com/tinymind/LSHttpGetManager/raw/master/example.png)
